@@ -1,5 +1,7 @@
-This is simple file readme 
+# Demo Project README
 
-##HEADER 2
+This a is simple readme file
 
-I hope it doesnt cconflict
+## HEADING 2
+
+Just some updates, on a branch
